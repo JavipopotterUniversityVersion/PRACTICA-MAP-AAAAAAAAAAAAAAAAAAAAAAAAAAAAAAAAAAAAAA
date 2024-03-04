@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-IOJDOFJOJDAJPJDFJIJAOIJFOJOIAFDJIO
-=======
-A
->>>>>>> f35a77ae883b198c063eb06b9b35378c45f614d8
+Hola :)
